@@ -107,7 +107,7 @@
 ---
 
 ### 🎓 Certifications
-- ✅  Oracle Certified - AI Foundation Associate
+- ✅ Oracle Certified - AI Foundation Associate
 - ✅ Full Stack Java Developer – **Naresh IT**  
 - ✅ Web Development – **Byte Uprise**  
 - ✅ Java Core Internship – **Internship Studio**
