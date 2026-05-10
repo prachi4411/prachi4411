@@ -77,7 +77,7 @@
 
 🤖 AI Powered Bank Ticket Resolution System
 
-> React.js, Java, Spring Boot, MySQL, Machine Learning, NLP
+> React.js, Java, Spring Boot, MySQL,GenAI
 
 - Developed an AI-powered bank ticket resolution system for automating customer support operations
 - Built responsive frontend using React.js and integrated it with Spring Boot REST APIs
