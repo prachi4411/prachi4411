@@ -75,6 +75,17 @@
 
 ### 📚 Featured Projects
 
+🤖 AI Powered Bank Ticket Resolution System
+
+> React.js, Java, Spring Boot, MySQL, Machine Learning, NLP
+
+- Developed an AI-powered bank ticket resolution system for automating customer support operations
+- Built responsive frontend using React.js and integrated it with Spring Boot REST APIs
+- Implemented NLP-based ticket classification for automatic categorization of customer queries
+- Developed AI-based priority detection and smart routing system for faster issue resolution
+- Reduced manual ticket handling and resolution time by 60%
+- Used MySQL database for secure ticket storage, tracking, and management
+
 #### 🎓 Course Management System
 > Java, Spring Boot, MySQL, REST API, React.js  
 - 99% input validation accuracy  
